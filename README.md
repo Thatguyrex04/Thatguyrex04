@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thatguyrex04
+- 👀 I’m interested in Java development for games & software.
+- 🌱 I’m currently learning Java and Java with Maven.
+- 📫 How to reach me, don't.
+- 😄 Pronouns: he/him=
